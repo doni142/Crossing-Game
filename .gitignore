@@ -1,0 +1,8 @@
+#Pycharm
+.idea
+#virtual environment
+venv
+# osx
+.DS_Store
+# pycharm cache
+__pycache__
